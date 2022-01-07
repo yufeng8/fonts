@@ -1,6 +1,6 @@
 # fonts
 字体文件存档及引用
-
+https://cdn.jsdelivr.net/gh/sixyy/fonts
 
 使用jsDelivr加速GitHub静态资源
 
